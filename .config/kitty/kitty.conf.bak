@@ -1,0 +1,85 @@
+
+# Font
+# ===============================
+font_family      Jetbrains Nerd Mono 
+font_size        12.5
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+
+# ===============================
+# Transparency
+# ===============================
+background_opacity 0.70
+dynamic_background_opacity yes
+
+# ===============================
+# Cursor
+# ===============================
+cursor_shape beam
+cursor_blink_interval 0
+cursor #ffffff
+
+# ===============================
+# Window
+# ===============================
+window_padding_width 12
+confirm_os_window_close 0
+enable_audio_bell no
+
+# ===============================
+# Colors (PURE MONOCHROME)
+# ===============================
+
+# Background / Foreground
+background #000000
+foreground #ffffff
+selection_background #ffffff
+selection_foreground #000000
+
+# Cursor colors
+cursor_text_color #000000
+
+# ===============================
+# ANSI COLORS — ALL GRAYSCALE
+# ===============================
+
+# Black → White ramp
+color0  #000000
+color1  #1a1a1a
+color2  #333333
+color3  #4d4d4d
+color4  #666666
+color5  #808080
+color6  #999999
+color7  #b3b3b3
+
+color8  #4d4d4d
+color9  #666666
+color10 #808080
+color11 #999999
+color12 #b3b3b3
+color13 #cccccc
+color14 #e6e6e6
+color15 #ffffff
+
+# ===============================
+# URL / Hints
+# ===============================
+url_color #ffffff
+
+# ===============================
+# Disable color tricks
+# ===============================
+allow_remote_control yes
+
+
+
+
+
+
+
+enable_audio_bell no
+linux_display_server wayland
+detect_urls no
+allow_remote_control yes
